@@ -1,0 +1,2 @@
+# Twitter_Bot_Code_VADER_Sentiment_Analysis
+# The below code is for a Python based Twitter Bot. # The bot receives tweets via mentions and in turn performs sentiment analysis # on the most recent twitter account specified in the mention (i.e. A user # tweets: "@PlotBot Analyze: @CNN" and in turn the code will trigger sentiment # analysis on the CNN twitter feed). A plot from the sentiment analysis is
